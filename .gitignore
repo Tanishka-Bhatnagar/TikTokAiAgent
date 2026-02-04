@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+tiktokAgent/
+venv/
+.env/
+.DS_Store
+.vscode/
+.idea/
